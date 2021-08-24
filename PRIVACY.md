@@ -3,7 +3,7 @@
 This privacy policy document is to clearly state and provide information on what, how, and why personal data or information is collected, used and disclosed when this software is utilized, and the choices you have associated with that data. 
 
 The objective of this policy document is to provide an open environment between the developer and users of this software by openly stating what information the developer collects or not.
-By utilizing this software, it means you accept all the terms and conditions of the developer peculiar to the Music-Player-GO software.
+By utilizing this software, it means you accept all the terms and conditions of the developer peculiar to the StaticTunes software.
 This policy applies to this software and the developer would not be held responsible for the content or privacy practices on any third party app not operated by the developer to which this software links or that links to this software.
 Therefore it is advisable to read up on the privacy policies of third party services that may be linked to this software.
 
@@ -44,7 +44,7 @@ In the case I discover that a child under 13 has provided me with personal infor
 If you are a parent or guardian and you are aware that your child has provided us with personal information by email, please contact me so that I will be able to take necessary actions.
 
 This software is intended for general use, and has no restrictions on utilization by children.
-Music-Player-GO **DOES NOT** contain any hazardous, violent, or any other content (e.g. augmented reality) that may require parental supervision.
+StaticTunes **DOES NOT** contain any hazardous, violent, or any other content (e.g. augmented reality) that may require parental supervision.
 
 <HR>
 
@@ -64,7 +64,7 @@ Users will be notified of these changes prior to the change. The changes to this
        
 ## Disclaimer   
 
-Music-Player-GO app is developed to be used basically for playing and listening to music stored on your device.
+StaticTunes app is developed to be used basically for playing and listening to music stored on your device.
 The developer will not be held accountable for how you decide to use this software and will not be liable for any losses and/or damages in connection with the use of the software.
 
 <HR>
