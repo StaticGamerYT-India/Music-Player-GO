@@ -13,7 +13,7 @@ Therefore it is advisable to read up on the privacy policies of third party serv
 
 **We don't store any data. Period. We physically can't. We have nowhere to store it. We are very poor, so we don't even have a server database to store any kind of information.**
 
-For utilization of Music-Player-GO, the software is designed to request only the **read storage permission** on the device on which the software's services is intended.
+For utilization of StaticTunes, the software is designed to request only the **read storage permission** on the device on which the software's services is intended.
 
 This permission has to be enabled so the software can read your storage and add music files to the music library.
   
@@ -50,7 +50,7 @@ Music-Player-GO **DOES NOT** contain any hazardous, violent, or any other conten
 
 ## Links To Other Sites
 
-Music-Player-GO does not contain links to any other services.
+StaticTunes does not contain links to any other services.
 All functionalities of the software are run independently and solely on the device.
 
 <HR>
